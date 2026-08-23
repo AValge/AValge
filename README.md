@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Alexander 👋
+# Hi, I'm AValge 👋
 **[avalge.dev](https://avalge.dev)**
 
 #### 💻 Languages
