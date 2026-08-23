@@ -1,6 +1,6 @@
 <div align="center">
 
-# Alexander Valge
+# AValge
 
 </div>
 
@@ -10,6 +10,9 @@
 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=3776AB)
+![C#](https://img.shields.io/badge/-C%23-000000?style=flat-square&logo=csharp&logoColor=239120)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6)
 
@@ -22,5 +25,7 @@
 ![Maven](https://img.shields.io/badge/-Maven-000000?style=flat-square&logo=apachemaven&logoColor=C71A36)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![SQLite](https://img.shields.io/badge/-SQLite-000000?style=flat-square&logo=sqlite&logoColor=003B57)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1)
+![Redis](https://img.shields.io/badge/-Redis-000000?style=flat-square&logo=redis&logoColor=DC382D)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=F05032)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=000000FF)
