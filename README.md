@@ -1,6 +1,8 @@
 <div align="center">
 
-# AValge
+# Hi I'm AValge!
+
+Learn more about me and what I do at my personal website. Take a look at my languages, skills & tools down below.
 
 </div>
 
@@ -10,7 +12,7 @@
 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![C#](https://img.shields.io/badge/-C%23-000000?style=flat-square&logo=csharp&logoColor=239120)
+![C#](https://img.shields.io/badge/-C%23-000000?style=flat-square&logo=c-sharp&logoColor=239120)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6)
 
