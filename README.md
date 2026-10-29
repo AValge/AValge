@@ -1,5 +1,5 @@
 <p align="center">
-  <b>Hi, I'm AValge 👋</b> · <a href="https://avalge.dev">avalge.dev</a> · building Minecraft servers with Spigot/Bukkit
+  <b>Hi, I'm AValge 👋</b> · <a href="https://avalge.dev">avalge.dev</a>
 </p>
 
 <p align="center">
